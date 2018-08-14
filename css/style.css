@@ -1,0 +1,27 @@
+/* .green-background{
+  background-color: : blue;
+} */
+.yellow-background {
+   background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+/* .col-lg-4{
+  column-rule-color: gray;
+} */
+.panel{
+  color: white;
+  background-color: black;
+  font-size: 15px;
+}
+.see{
+  text-align: center;
+}
+.well{
+  background-color: gray;
+  text-align: center;
+
+  font-style: italic;
+}
